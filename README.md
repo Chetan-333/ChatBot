@@ -63,8 +63,11 @@ pip install -r requirements.txt
 Create a .env file in the root directory and add your API keys:
 
 OPENAI_API_KEY=your_api_key
+
 LANGCHAIN_API_KEY=your_langsmith_key
+
 LANGCHAIN_TRACING_V2=true
+
 LANGCHAIN_PROJECT=your_project_name
 
 ▶️ Run the Application
